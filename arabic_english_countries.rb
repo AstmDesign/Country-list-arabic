@@ -49,7 +49,7 @@ Country.create( name_ar: 'تشاد', name_en: 'Chad', code: 'TD', currency: 'XAF
 Country.create( name_ar: 'ساموا الأمريكية', name_en: 'American Samoa', code: 'AS', currency: 'USD', utc_time: '−11:00', utc_zone: 'American Samoa', is_published: true )
 Country.create( name_ar: 'روسيا البيضاء', name_en: 'Belarus', code: 'BY', currency: 'BYN', utc_time: '+03:00', utc_zone: 'Minsk', is_published: true )
 Country.create( name_ar: 'جزيرة بوفيه', name_en: 'Bouvet Island', code: 'BV', currency: '', utc_time: '+02:00', utc_zone: 'Athens', is_published: true )
-Country.create( name_ar: 'كندا', name_en: 'Canada', code: 'CA', currency: 'CAD', utc_time: '-05:00', utc_zone: 'Eastern Time', is_published: true )
+Country.create( name_ar: 'كندا', name_en: 'Canada', code: 'CA', currency: 'CAD', utc_time: '-05:00', utc_zone: 'Eastern Time (US & Canada)', is_published: true )
 Country.create( name_ar: 'جزر الكايمن', name_en: 'Cayman Islands', code: 'KY', currency: 'KYD', utc_time: '−04:00', utc_zone: 'Georgetown', is_published: true )
 Country.create( name_ar: 'شيلي', name_en: 'Chile', code: 'CL', currency: 'CLP', utc_time: '−04:00', utc_zone: 'Santiago', is_published: true )
 Country.create( name_ar: 'جزيرة الكريسماس', name_en: 'Christmas Island', code: 'CX', currency: 'AUD', utc_time: '+07:00', utc_zone: 'Novosibirsk', is_published: true )
